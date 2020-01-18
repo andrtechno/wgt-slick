@@ -14,21 +14,21 @@ class SlickAsset extends AssetBundle
     /**
      * @var string the directory that contains the source asset files for this asset bundle.
      */
-    public $sourcePath = '@bower/owl.carousel';
+    public $sourcePath = '@bower/slick-carousel';
 
     /**
      * @var array list of CSS files that this bundle contains.
      */
     public $css = [
-        'dist/assets/owl.carousel.min.css',
-        'dist/assets/owl.theme.default.min.css',
+        'slick/slick.css',
+        'slick/slick-theme.css',
     ];
 
     /**
      * @var array list of JavaScript files that this bundle contains.
      */
     public $js = [
-        'dist/owl.carousel.min.js',
+        'slick/slick.min.js',
     ];
 
     /**
