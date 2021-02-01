@@ -8,7 +8,7 @@
     "slick"
   ],
   "homepage": "https://github.com/andrtechno/wgt-slick",
-  "type": "yii2-extension",
+  "type": "pixelion-widget",
   "license": "MIT",
   "authors": [
     {
